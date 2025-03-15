@@ -50,6 +50,26 @@ CommunionHub is a modern web application designed to connect people of all faith
 
 ### Installation
 
+1. Install dependencies:
+
+```shellscript
+npm install
+# or
+yarn install
+```
+
+
+ 2. Run the development server:
+
+```shellscript
+npm run dev
+# or
+yarn dev
+```
+ 3. Open [http://localhost:3000](http://localhost:3000) in your browser to see the application.
+
+
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/thatsaashik/Communion-Hub.git
