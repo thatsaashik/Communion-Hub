@@ -1,6 +1,6 @@
 # CommunionHub - Faith Community Platform
 
-![CommunionHub Banner](https://placeholder.svg?height=300&width=800)
+![CommunionHub Live Demo](https://v0-react-dark-theme-website.vercel.app/)
 
 CommunionHub is a modern web application designed to connect people of all faiths through events and community support. This platform allows users to discover, filter, and create events while providing a seamless and engaging user experience.
 
